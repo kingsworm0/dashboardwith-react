@@ -1,0 +1,27 @@
+.form-group{
+    padding-left: 150px;
+    padding-top:100px;
+    /* padding-top: 20px; */
+
+}
+.form-group input{
+    width: 300px;
+    height: 30px;
+    margin: 15px;
+}
+.form-group input::placeholder{
+    text-align: center;
+}
+.btn-submit{
+    width: 310px;
+    background-color: #3274d6;
+   
+}
+.dialog{
+    display: flex;
+}
+.Login-logo{
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+}
